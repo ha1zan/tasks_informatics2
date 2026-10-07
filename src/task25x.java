@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class task25x {
     static class State {
         long cost = (long) 1e18;
         int trips = 0;
